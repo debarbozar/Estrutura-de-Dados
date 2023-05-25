@@ -1,5 +1,5 @@
 # Estrutura-de-Dados
 
-<h1>Materia Faculdade</h1>
+<h3>Materia Faculdade</h3>
 
-<h2>repositorio para botar os exercicios da materia estrutura de dados</h2>
+<h4>repositorio para botar os exercicios da materia estrutura de dados</h4>
